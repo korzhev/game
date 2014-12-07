@@ -1,0 +1,198 @@
+[
+    {
+        "name": "Начало",
+        "description": "Попробуй ответить на свой первый вопрос.",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": true,
+        "params": {
+            "qCount":1,
+            "aCount":0,
+            "time":0,
+            "gCount":0,
+            "wCount":0
+        }
+    },
+    {
+        "name": "Сотня вопросов",
+        "description": "Прочитай свой сотый вопрос.",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": true,
+        "params": {
+            "qCount":100,
+            "aCount":0,
+            "time":0,
+            "gCount":0,
+            "wCount":0
+        }
+    },
+    {
+        "name": "Любопытный",
+        "description": "Просмотри тысячу вопросов",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": true,
+        "params": {
+            "qCount":1000,
+            "aCount":0,
+            "time":0,
+            "gCount":0,
+            "wCount":0
+        }
+    },
+    {
+        "name": "5*1000",
+        "description": "Попробуй ответить на свой пятитысячный вопрос.",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": true,
+        "params": {
+            "qCount":5000,
+            "aCount":0,
+            "time":0,
+            "gCount":0,
+            "wCount":0
+        }
+    },
+    {
+        "name": "Дотошный",
+        "description": "Просмотри 20 тысяч вопросов.",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": true,
+        "params": {
+            "qCount":20000,
+            "aCount":0,
+            "time":0,
+            "gCount":0,
+            "wCount":0
+        }
+    },
+    {
+        "name": "Тяга к знаниям",
+        "description": "Ты хочешь знать всё? Уже 50 тысяч вопросов.",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": true,
+        "params": {
+            "qCount":50000,
+            "aCount":0,
+            "time":0,
+            "gCount":0,
+            "wCount":0
+        }
+    },
+    {
+        "name": "Неудержимый",
+        "description": "Преодолей планку в сто тысяч вопросов.",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": true,
+        "params": {
+            "qCount":100000,
+            "aCount":0,
+            "time":0,
+            "gCount":0,
+            "wCount":0
+        }
+    },
+    {
+        "name": "1 000 000?",
+        "description": "1 миллион вопросов, ты сделал это!",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": true,
+        "params": {
+            "qCount":1000000,
+            "aCount":0,
+            "time":0,
+            "gCount":0,
+            "wCount":0
+        }
+    },
+    {
+        "name": "Проблеск знания",
+        "description": "Ответь верно и вовремя на вопрос.",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": true,
+        "params": {
+            "qCount":1,
+            "aCount":1,
+            "time":0,
+            "gCount":1,
+            "wCount":0
+        }
+    },
+    {
+        "name": "В сухую!",
+        "description": "Разгроми соперников.",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": false,
+        "params": {
+            "qCount":8,
+            "aCount":8,
+            "time":0,
+            "gCount":1,
+            "wCount":1,
+        }
+    },
+    {
+        "name": "Не овощ",
+        "description": "Докажи, что ты не овощ! Выйграй свою первую игру.",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": true,
+        "params": {
+            "qCount":0,
+            "aCount":0,
+            "time":0,
+            "gCount":0,
+            "wCount":1
+        }
+    },
+    {
+        "name": "С первой попытки!",
+        "description": "Докажи всем свою скорость и ум! Выйграй сходу свою первую игру.",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": true,
+        "params": {
+            "qCount":0,
+            "aCount":0,
+            "time":0,
+            "gCount":1,
+            "wCount":1
+        }
+    },
+    {
+        "name": "Увлечённый",
+        "description": "Проведи час отвечая на вопросы.",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": true,
+        "params": {
+            "qCount":0,
+            "aCount":0,
+            "time": 3600,
+            "gCount":0,
+            "wCount":0
+        }
+    },
+    {
+        "name": "Ни единого шанса!",
+        "description": "Разгроми своих соперников, ответив первым на все вопросы",
+        "image_active": "http://placekitten.com/32/32",
+        "image_disabled": "http://placekitten.com/32/32",
+        "permanent": false,
+        "params": {
+            "qCount":8,
+            "aCount":8,
+            "time":0,
+            "gCount":0,
+            "wCount":0,
+        }
+    },
+]

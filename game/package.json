@@ -1,0 +1,22 @@
+{
+  "name": "mind_race",
+  "version": "0.0.0",
+  "description": "node.js part of game 'Mind Race'",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": [
+    "Korzhev Vladimir"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.2.10",
+    "underscore": "^1.6.0",
+    "ws": "^0.4.31",
+    "guid": "0.0.12",
+    "tracer": "^0.6.2",
+    "pg": "^3.0.3",
+    "request": "~2.34.0"
+  }
+}

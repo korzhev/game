@@ -1,0 +1,41 @@
+{
+    "websock":{
+        "port": 8001,
+        "host": "localhost"
+    },
+    "logger": {
+        "level": "log",
+        "toFile": true
+    },
+    "lootService": {
+        "exp": {
+            "port": 80,
+            "host": "<host>",
+            "url":"/result_experience/"
+        },
+        "money": {
+            "port": 80,
+            "host": "<host>",
+            "url":"/result_money/"
+        }, 
+        "achieves": 
+        {
+            "port": 80,
+            "host": "<host>",
+            "url":"/result_achieves/"
+        }
+    },
+    "postgre":{
+        "port": 5432,
+        "host": "<host>",
+        "user":"<user>",
+        "password":"<pass>",
+        "database":"quiz"
+    },
+    "roomPlayersMap":{
+        "basic":5,
+        "duel":2,
+        "team":4
+    },
+    "nextQuestionTimer":1
+}
